@@ -1,2 +1,2 @@
 Este é o exemplo de um ficheiro de texto...
-
+Alterações efectuadas no branch 'NovaFeature'
